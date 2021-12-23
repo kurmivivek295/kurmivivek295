@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Vivek Kurmi from MP India, a Self taught, Highly Experienced Software Professional.
 
-<!--
-**kurmivivek295/kurmivivek295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to write clean, readable and performant code in some of the computer languages.
 
-Here are some ideas to get you started:
+I have recently started content creation for Java, JavaScript, React, Spring boot, Microservices and Full Stack App development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://linkedin.com/in/kurmivivek295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurmivivek295" height="30" width="40" /></a>
+
+Here is something you can do, that always tune up my brain:
+  
+  <a href="https://www.buymeacoffee.com/vivekkurmi" target="_blank" rel="noreferrer nofollow">
+   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+ </a>
