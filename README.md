@@ -7,7 +7,7 @@ I have recently started content creation for Java, JavaScript, React, Spring boo
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/kurmivivek295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurmivivek295" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kurmivivek295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurmivivek295" height="30" width="40" /></a>
 
 Here is something you can do, that always tune up my brain:
   
